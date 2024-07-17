@@ -1,0 +1,1 @@
+UPDATE topicos SET estado_do_topico = 'ATIVO';
